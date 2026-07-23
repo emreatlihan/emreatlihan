@@ -33,15 +33,6 @@ I'm **Emre**, a Computer Engineer who likes turning ideas into software that act
 | 🖼️ **[PNG2ASCII](https://github.com/emreatlihan/PNG2ASCII)** | Turns PNG images into ASCII art. |
 | 🧭 **[Simple Path Finder](https://github.com/emreatlihan/simple-path-finder)** | A little 20×20 maze solver, built for fun. |
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emreatlihan&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emreatlihan&layout=compact&hide_border=true&theme=tokyonight)
-
-</div>
-
 ## 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-mratlihan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mratlihan@gmail.com)
