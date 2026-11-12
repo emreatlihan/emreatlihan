@@ -31,6 +31,7 @@ I'm **Emre**, a Computer Engineering student driven by a continuous motivation t
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Databases & Tools
@@ -45,6 +46,7 @@ I'm **Emre**, a Computer Engineering student driven by a continuous motivation t
 
 | Project | Description |
 |---------|-------------|
+| 🧭 **[ReviewPilot](https://github.com/emreatlihan/ReviewPilot-showcase)** | Desktop companion that derives each ticket's stage from GitLab, Jira, git worktrees and Claude Code sessions, shows the single next step and launches it in the right AI agent session. *(source private — overview repo)* `TypeScript · Electron · React · SQLite · VS Code API` |
 | 📧 **[Tomail](https://github.com/emreatlihan/Tomail)** | Self-hosted email marketing & newsletter platform — lists, templates & campaigns over your own SMTP. `.NET 8 · Blazor · PostgreSQL · Docker` |
 | 🎧 **[Real-Time Audio Steganography](https://github.com/emreatlihan/Real-Time-Audio-Steganography)** | Hides secret messages inside audio using Echo Hiding — imperceptible, recoverable via FFT. `.NET 8 · NAudio · DSP` |
 | 🃏 **[Pişti](https://github.com/emreatlihan/pisti)** | One of my first projects. A digital take on the traditional Turkish card game built to grasp core game logic. `C# · Python` |
